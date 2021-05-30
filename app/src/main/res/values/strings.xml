@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Self</string>
+    <string name="textTitle">"Self. Gratitude. Journal "</string>
+    <string name="gratefullText">What are you gratefull for?</string>
+    <string name="startText">Get started</string>
+    <string name="email_text">Email</string>
+    <string name="Password_text">Password</string>
+    <string name="Login">Login</string>
+    <string name="or">Or</string>
+    <string name="CreateAcc_Text">Create Account</string>
+    <string name="usernameCreate_text">Username</string>
+    <string name="your_thoughts">Your Thoughts...</string>
+    <string name="title">Title</string>
+    <string name="today">Today</string>
+    <string name="gowri_prasath">Gowri Prasath</string>
+    <string name="add_thought">Add thought</string>
+    <string name="signout">signout</string>
+    <string name="no_journal_added_yet_click_icon_to_add_journal">No Journal added yet. Click+ icon to add journal</string>
+</resources>
